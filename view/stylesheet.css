@@ -1,0 +1,180 @@
+
+.main{
+    background-color:;
+    width: 100%;
+    height: 100%;
+    max-height: 820px;
+    background-image: url(web.jpg);
+    background-size: cover;
+    
+ 
+}
+   
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+
+#hdr{
+    color:#e9ecef;
+    text-decoration: none;
+}
+
+
+.container{
+    display:flex;
+    flex-direction: row;
+    margin-right: 50px;
+    justify-content: space-between;
+}
+
+
+.text{
+    width: 100%;
+    max-width: 500px;
+    margin-left: 70px;
+    margin-bottom: 100px;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.h1 {
+    color: #e9ecef;
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px 0px 0px 60px;
+    padding-top: 50px;
+    
+}
+
+
+.h2{
+    color: #e9ecef;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 50px 10px 8px 200px;
+    padding-top: -80px;
+}
+
+
+.h3{
+    color: #e9ecef;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 80px;
+}
+
+
+
+.logo1{
+    display: flex;
+    align-content: space-around;
+    justify-content: baseline;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 50px;
+    width: 100%;
+    max-width: 10px;
+    margin-right: -400px;
+    
+    margin-top: -40px;
+}
+
+
+.logo2{
+    display: flex;
+    align-content: space-around;
+    justify-content: baseline;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 50px;
+    width: 100%;
+    max-width: 20px;
+    margin-right: 80px;
+    
+    margin-top: -40px;
+}
+
+
+
+#js{
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+}
+
+
+#node{
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+}
+
+
+
+#html{
+    width: 130px;
+    height: 120px;
+    padding: 20px;
+}
+
+
+#css{
+    width: 100px;
+    height: 120px;
+    padding: 20px;
+}
+
+
+
+#react{
+    width: 140px;
+    height: 140px;
+    padding: 20px;
+}
+
+
+
+#sql{
+    width: 120px;
+    height: 120px;
+    padding: 20px;
+}
+
+
+
+.ftr{
+    display:flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
+
+
+#ghb{
+    width: 40px;
+    margin-right: 10px;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+#insta{
+    width: 55px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
